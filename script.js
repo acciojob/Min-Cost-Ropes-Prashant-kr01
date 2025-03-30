@@ -9,4 +9,4 @@ function mincost(arr)
 }
 		let result = mincost();
 console.log(result);
-//module.exports=mincost;
+module.exports=mincost;
