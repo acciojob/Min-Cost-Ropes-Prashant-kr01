@@ -17,6 +17,6 @@ arr.sort((a,b)=> a-b);
 return totalcost;
   
 }
-		let result = mincost();
-console.log(result);
-module.exports=mincost;
+ let result = mincost();
+ console.log(result);
+ module.exports = mincost;
